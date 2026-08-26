@@ -21,4 +21,4 @@ Powerful **Discord Nitro Pulse** management toolkit providing Gantt charts, reso
 
 ## A note on usage
 > [!CAUTION]
-> Provided for educational and utility purposes only. Use at your own discretion.                  
+> Provided for educational and utility purposes only. Use at your own discretion.                   
